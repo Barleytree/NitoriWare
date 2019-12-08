@@ -701,7 +701,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100002, guid: 37b53fe551803d048b1574b9d16155c9, type: 3}
+  - {fileID: 2100000, guid: 94591a4c5276d354cb0bf33129fcfee3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -803,7 +803,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 37b53fe551803d048b1574b9d16155c9, type: 3}
+  - {fileID: 2100000, guid: e4e76e37b72b6ba40baa8b2e088e97d9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1093,7 +1093,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b19dfee67d6ab0146bb2ce95a971b73d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reflectCount: 1
+  reflectCount: 2
   maxRaycastDistance: 10
   bankMask:
     serializedVersion: 2
